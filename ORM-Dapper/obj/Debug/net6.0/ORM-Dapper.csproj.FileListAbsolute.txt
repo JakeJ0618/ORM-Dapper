@@ -1,0 +1,15 @@
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\bin\Debug\net6.0\ORM-Dapper.exe
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\bin\Debug\net6.0\ORM-Dapper.deps.json
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\bin\Debug\net6.0\ORM-Dapper.runtimeconfig.json
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\bin\Debug\net6.0\ORM-Dapper.dll
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\bin\Debug\net6.0\ORM-Dapper.pdb
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.csproj.AssemblyReference.cache
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.AssemblyInfoInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.AssemblyInfo.cs
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.csproj.CoreCompileInputs.cache
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.dll
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\refint\ORM-Dapper.dll
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.pdb
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ORM-Dapper.genruntimeconfig.cache
+C:\Users\matta\Desktop\C# Folder\repos\ORM-Dapper\ORM-Dapper\obj\Debug\net6.0\ref\ORM-Dapper.dll
